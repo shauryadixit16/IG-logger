@@ -1,0 +1,43 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007",
+      "tech": "Sam Smith",
+      "date": "2020-09-06T08:03:09.887Z"
+    },
+    {
+      "id": 3,
+      "atn": false,
+      "message": "1122 wireless down",
+      "tech": "Sam Smith",
+      "date": "2020-09-06T08:01:14.914Z"
+    },
+    {
+      "id": 4,
+      "atn": true,
+      "message": "Workstation 026 is up and running",
+      "tech": "Sara Wilson",
+      "date": "2020-09-06T08:04:40.798Z"
+    },
+    {
+      "id": 5,
+      "atn": true,
+      "message": "done with course",
+      "tech": "Sara",
+      "date": "2020-09-06T08:01:20.616Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "id": 1
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Wilson",
+      "id": 2
+    }
+  ]
+}
